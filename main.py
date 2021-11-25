@@ -6,3 +6,4 @@ for i in range(10):
   userInt = int(input("Give me integers and I will give you the sum "))
   sum += userInt
 print(sum)
+#Asks for input 10 times and adds the input
